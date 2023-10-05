@@ -1,0 +1,143 @@
+[
+  {
+    "set_id": 1,
+    "items": [
+      {
+        "id": 1,
+        "name": "Sofa",
+        "type": "Living Room",
+        "color": "yellow",
+        "price": 799.99,
+        "image": "https://i.ibb.co/Db1ZkhL/sofa-preview-first.png",
+        "previewImage": "https://i.ibb.co/fY6YKcB/sofa-preview-second.png",
+        "size": {
+          "width": "78 inches",
+          "height": "32 inches",
+          "depth": "35 inches"
+        }
+      },
+      {
+        "id": 2,
+        "name": "Side Stool",
+        "type": "Living Room",
+        "color": "red",
+        "price": 199.99,
+        "image": "https://i.ibb.co/r7s5k8j/stool-preview-first.png",
+        "previewImage": "https://i.ibb.co/DCkM5xh/stool-preview-second.png",
+        "size": {
+          "width": "48 inches",
+          "height": "18 inches",
+          "depth": "24 inches"
+        }
+      },
+      {
+        "id": 3,
+        "name": "Sofa Pillow",
+        "type": "Living Room",
+        "color": "Green",
+        "price": 299.99,
+        "image": "https://i.ibb.co/StNk23y/pillow-preview-first.png",
+        "previewImage": "https://i.ibb.co/4mLWF7h/pillow-preview-second.png",
+        "size": {
+          "width": "60 inches",
+          "height": "20 inches",
+          "depth": "18 inches"
+        }
+      }
+    ]
+  },
+  {
+    "set_id": 2,
+    "items": [
+      {
+        "id": 4,
+        "name": "Bed",
+        "type": "Bedroom",
+        "color": "purple",
+        "price": 249.99,
+        "image": "https://i.ibb.co/k0KQNLG/bed-preview-first.png",
+        "previewImage": "https://i.ibb.co/jV1xr4B/bed-preview-second.png",
+        "size": {
+          "width": "20 inches",
+          "height": "36 inches",
+          "depth": "24 inches"
+        }
+      },
+      {
+        "id": 5,
+        "name": "Chair",
+        "type": "Bedroom",
+        "color": "orange",
+        "price": 399.99,
+        "image": "https://i.ibb.co/tMTM5Q7/chair-preview-first.png",
+        "previewImage": "https://i.ibb.co/G3r3Cfk/chair-preview-second.png",
+        "size": {
+          "width": "54 inches",
+          "height": "36 inches",
+          "depth": "16 inches"
+        }
+      },
+       {
+        "id": 6,
+        "name": "Bed pillows",
+        "type": "Bedroom",
+        "color": "purple",
+        "price": 499.99,
+        "image": "https://i.ibb.co/6b6JDj0/pillows.png",
+        "previewImage": "https://i.ibb.co/6b6JDj0/pillows.png",
+        "size": {
+          "width": "72 inches",
+          "height": "30 inches",
+          "depth": "36 inches"
+        }
+      }
+    ]
+  },
+  {
+    "set_id": 3,
+    "items": [
+      {
+        "id": 7,
+        "name": "Couple Bed",
+        "type": "Bedroom",
+        "color": "orange",
+        "price": 699.99,
+        "image": "https://i.ibb.co/P1X76Fh/bed-preview-secondary-first-png.png",
+        "previewImage": "https://i.ibb.co/sqscCtS/bed-preview-secondary-second.png",
+        "size": {
+          "width": "80 inches",
+          "height": "40 inches",
+          "depth": "90 inches"
+        }
+      },
+      {
+        "id": 8,
+        "name": "Bed Pillows",
+        "type": "Bedroom",
+        "color": "Purple",
+        "price": 129.99,
+        "image": "https://i.ibb.co/6b6JDj0/pillows.png",
+        "previewImage": "https://i.ibb.co/6b6JDj0/pillows.png",
+        "size": {
+          "width": "24 inches",
+          "height": "28 inches",
+          "depth": "18 inches"
+        }
+      },
+      {
+        "id": 9,
+        "name": "Soft Ball",
+        "type": "Bedroom",
+        "color": "purple",
+        "price": 499.99,
+        "image": "https://i.ibb.co/P4GjySv/ball-purple.png",
+        "previewImage": "https://i.ibb.co/P4GjySv/ball-purple.png",
+        "size": {
+          "width": "48 inches",
+          "height": "72 inches",
+          "depth": "24 inches"
+        }
+      }
+    ]
+  }
+]
