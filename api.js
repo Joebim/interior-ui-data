@@ -25,11 +25,7 @@ exports.handler = async (event, context) => {
       };
     }
   }
-};
 
-// api.js
-
-exports.handler = async (event, context) => {
   if (event.httpMethod === 'POST') {
     try {
       // Parse the incoming JSON payload from the request body
@@ -42,11 +38,11 @@ exports.handler = async (event, context) => {
         'Access-Control-Allow-Headers': 'Content-Type',
       };
     
-      // Return the response with headers
+      // Return the response with headers and the correct data
       return {
         statusCode: 200,
         headers,
-        body: JSON.stringify(data),
+        body: JSON.stringify(requestBody), // Corrected to return the parsed request data
       };
     
     } catch (error) {
