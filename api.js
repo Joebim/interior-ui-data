@@ -6,9 +6,15 @@ exports.handler = async (event, context) => {
       // Process the GET request as needed
       const data = require('./db.json');
 
-      // Return the data as the response
+      const headers = {
+        'Access-Control-Allow-Origin': '*', // Replace * with the appropriate domain
+        'Access-Control-Allow-Headers': 'Content-Type',
+      };
+    
+      // Return the response with headers
       return {
         statusCode: 200,
+        headers,
         body: JSON.stringify(data),
       };
     } catch (error) {
@@ -31,12 +37,18 @@ exports.handler = async (event, context) => {
 
       // Save the data to a database or perform other necessary operations
       // ...
-
-      // Return a success response
+      const headers = {
+        'Access-Control-Allow-Origin': '*', // Replace * with the appropriate domain
+        'Access-Control-Allow-Headers': 'Content-Type',
+      };
+    
+      // Return the response with headers
       return {
         statusCode: 200,
-        body: JSON.stringify({ message: 'POST request processed successfully' }),
+        headers,
+        body: JSON.stringify(data),
       };
+    
     } catch (error) {
       // Return an error response if there was an issue processing the request
       return {
