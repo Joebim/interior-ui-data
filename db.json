@@ -11,8 +11,8 @@
         "image": "https://i.ibb.co/Db1ZkhL/sofa-preview-first.png",
         "previewImage": "https://i.ibb.co/fY6YKcB/sofa-preview-second.png",
         "size": {
-          "width": "78 inches",
-          "height": "32 inches",
+          "width": "78",
+          "height": "32",
           "depth": "35 inches"
         }
       },
@@ -25,8 +25,8 @@
         "image": "https://i.ibb.co/r7s5k8j/stool-preview-first.png",
         "previewImage": "https://i.ibb.co/DCkM5xh/stool-preview-second.png",
         "size": {
-          "width": "48 inches",
-          "height": "18 inches",
+          "width": "48",
+          "height": "18",
           "depth": "24 inches"
         }
       },
@@ -39,8 +39,8 @@
         "image": "https://i.ibb.co/StNk23y/pillow-preview-first.png",
         "previewImage": "https://i.ibb.co/4mLWF7h/pillow-preview-second.png",
         "size": {
-          "width": "60 inches",
-          "height": "20 inches",
+          "width": "60",
+          "height": "20",
           "depth": "18 inches"
         }
       }
@@ -58,8 +58,8 @@
         "image": "https://i.ibb.co/k0KQNLG/bed-preview-first.png",
         "previewImage": "https://i.ibb.co/jV1xr4B/bed-preview-second.png",
         "size": {
-          "width": "20 inches",
-          "height": "36 inches",
+          "width": "20",
+          "height": "36",
           "depth": "24 inches"
         }
       },
@@ -72,8 +72,8 @@
         "image": "https://i.ibb.co/tMTM5Q7/chair-preview-first.png",
         "previewImage": "https://i.ibb.co/G3r3Cfk/chair-preview-second.png",
         "size": {
-          "width": "54 inches",
-          "height": "36 inches",
+          "width": "54",
+          "height": "36",
           "depth": "16 inches"
         }
       },
@@ -86,8 +86,8 @@
         "image": "https://i.ibb.co/6b6JDj0/pillows.png",
         "previewImage": "https://i.ibb.co/6b6JDj0/pillows.png",
         "size": {
-          "width": "72 inches",
-          "height": "30 inches",
+          "width": "72",
+          "height": "30",
           "depth": "36 inches"
         }
       }
@@ -105,8 +105,8 @@
         "image": "https://i.ibb.co/P1X76Fh/bed-preview-secondary-first-png.png",
         "previewImage": "https://i.ibb.co/sqscCtS/bed-preview-secondary-second.png",
         "size": {
-          "width": "80 inches",
-          "height": "40 inches",
+          "width": "80",
+          "height": "40",
           "depth": "90 inches"
         }
       },
@@ -119,8 +119,8 @@
         "image": "https://i.ibb.co/6b6JDj0/pillows.png",
         "previewImage": "https://i.ibb.co/6b6JDj0/pillows.png",
         "size": {
-          "width": "24 inches",
-          "height": "28 inches",
+          "width": "24",
+          "height": "28",
           "depth": "18 inches"
         }
       },
@@ -133,8 +133,8 @@
         "image": "https://i.ibb.co/P4GjySv/ball-purple.png",
         "previewImage": "https://i.ibb.co/P4GjySv/ball-purple.png",
         "size": {
-          "width": "48 inches",
-          "height": "72 inches",
+          "width": "48",
+          "height": "72",
           "depth": "24 inches"
         }
       }
