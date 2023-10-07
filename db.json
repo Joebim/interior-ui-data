@@ -1,6 +1,8 @@
 [
   {
     "set_id": 1,
+    "type": "Arm Chair",
+    "theme-color": "#FFC358",
     "items": [
       {
         "id": 1,
@@ -48,6 +50,8 @@
   },
   {
     "set_id": 2,
+    "type": "Bedroom Delight",
+    "theme-color": "#B34BF7",
     "items": [
       {
         "id": 4,
@@ -95,6 +99,8 @@
   },
   {
     "set_id": 3,
+    "type": "Couple's Dream",
+    "theme-color": "#67F4CF",
     "items": [
       {
         "id": 7,
